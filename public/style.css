@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    margin-top: 30px;
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    background-image: url("images/background-image.jpg");
+    background-size: cover;
+}
+
+.maindiv {
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 640px;
+    padding: 20px;
+}
+
+.head {
+    color: darkgreen;
+    text-align: center;
+}
